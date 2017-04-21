@@ -1,3 +1,4 @@
+import conditions.utils.js;
 
 
 /**
@@ -7,6 +8,9 @@
  * Maak een object aan en check via existy() of hij bestaat
  * Maak een variabele aan maar geef hem nog geen vulling. Console.log() wat existy() teruggeeft
  */
+
+
+    existy{[]};
 
 /**
  * Opdracht 2: exports
